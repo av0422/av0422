@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_avantikaajit" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/x.webp" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avantikaajit/" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/linkedin.jpg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avantikaajit/" target="blank"><img align="center" src="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/avantikaajit_/" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/instagram.png" alt="" height="30" width="40" /></a>
 <a href="[(https://www.youtube.com/channel/UCS_L8LPvBS86nW80iDqXdFw)]" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/youtube.jpg" alt="" height="30" width="40" /></a>
 </p>
