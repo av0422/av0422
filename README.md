@@ -3,7 +3,15 @@
 
 ### Hi there 👋
 
-Hi I am Avantika Ajit, aspiring Data Scientist from New Delhi, India!
+I am a 21 year old aspiring Data Scientist from New Delhi, India!
+Recently Graduated in Computer Science from University of Delhi.
+
+I'm deeply fascinated by the intersection of machine learning and artificial intelligence, particularly when applied to robotics and autonomous systems. Exploring how these technologies enable machines to perceive, understand, and act autonomously in dynamic environments is both thrilling and intellectually stimulating to me. Additionally, my passion for design adds another layer to my exploration, as I'm keen on integrating aesthetics and user experience considerations into the development of intelligent systems. It's this blend of technical innovation and creative thinking that drives my curiosity and fuels my endeavors in  ML & AI.
+
+* Areas of Interest: Machine Learning, Computer Vision, NLP, Automotive Systems
+* Beginner in Open Source 🕹️
+* Experienced Graphic Designer 🎬
+  
 <!--
 **av0422/av0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,15 +27,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Avantika's GitHub stats](https://github-readme-stats.vercel.app/api?username=av0422)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
   
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://learnjavascript.online/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </p>
+### Languages and Tools:
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/-Adobe Creative Cloud-DA1F26?logo=Adobe-Creative-Cloud&logoColor=white"> <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white"> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white">
 
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=av0422)](https://git.io/streak-stats)
+
+
+## Github Stats
+
+![Avantika's Stats](https://github-readme-stats.vercel.app/api?username=av0422&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)     
+
+<br>
+
+![Avantika's Streak](https://github-readme-streak-stats.herokuapp.com/?user=av0422&theme=tokyonight&hide_border=true)
+
+<br>
+
+![Avantika's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=av0422&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -38,5 +58,9 @@ Here are some ideas to get you started:
 <a href="[(https://www.youtube.com/channel/UCS_L8LPvBS86nW80iDqXdFw)]" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/youtube.png" alt="" height="30" width="30" /></a>
 </p>
 
-<br>
+
+<!-- 
+Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey777) 
+-->
+
 
