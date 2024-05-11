@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_avantikaajit" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F91%2F8b%2F20%2F918b20dc0aa716e09fd0a58f9dd8e720.jpg&tbnid=RNmpGmKC-HZ2NM&vet=12ahUKEwjLgJiYg4aGAxX42zgGHX0BB10QMygDegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ftwitter-x-app-icon-png-in-2023--1006413847961866536%2F&docid=wlA8iXTIQJjLiM&w=850&h=530&q=x%20icon%20transparent&ved=2ahUKEwjLgJiYg4aGAxX42zgGHX0BB10QMygDegQIARB0" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avantikaajit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/avantikaajit_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="[your link](https://www.youtube.com/channel/UCS_L8LPvBS86nW80iDqXdFw)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/_avantikaajit" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/x.webp" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avantikaajit/" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/linkedin.jpg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/avantikaajit_/" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/instagram.png" alt="" height="30" width="40" /></a>
+<a href="[(https://www.youtube.com/channel/UCS_L8LPvBS86nW80iDqXdFw)]" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/youtube.jpg" alt="" height="30" width="40" /></a>
 </p>
 
 <br>
