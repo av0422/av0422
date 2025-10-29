@@ -3,12 +3,13 @@
 
 ### Hi there 👋
 
-I am a 21 year old aspiring Data Scientist from New Delhi, India!
-Recently Graduated in Computer Science from University of Delhi.
+I am a 22 year old, currently based in Stuttgart, Germany!
+Currently studying my masters in Computer Science at Universität Stuttgart.  
+Graduated in Computer Science from University of Delhi.
 
 I'm deeply fascinated by the intersection of machine learning and artificial intelligence, particularly when applied to robotics and autonomous systems. Exploring how these technologies enable machines to perceive, understand, and act autonomously in dynamic environments is both thrilling and intellectually stimulating to me. Additionally, my passion for design adds another layer to my exploration, as I'm keen on integrating aesthetics and user experience considerations into the development of intelligent systems. It's this blend of technical innovation and creative thinking that drives my curiosity and fuels my endeavors in  ML & AI.
 
-* Areas of Interest: Machine Learning, Computer Vision, NLP, Automotive Systems
+* Areas of Interest: Machine Learning, Robotics, Computer Vision, NLP, Automotive Systems
 * Beginner in Open Source 🕹️
 * Experienced Graphic Designer 🎬
   
