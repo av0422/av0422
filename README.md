@@ -3,13 +3,13 @@
 
 ### Hi there 👋
 
-I am a 22 year old, currently based in Stuttgart, Germany!
+I am a 23 year old, currently based in Stuttgart, Germany!
 Currently studying my masters in Computer Science at Universität Stuttgart.  
 Graduated in Computer Science from University of Delhi.
 
 I'm deeply fascinated by the intersection of machine learning and artificial intelligence, particularly when applied to robotics and autonomous systems. Exploring how these technologies enable machines to perceive, understand, and act autonomously in dynamic environments is both thrilling and intellectually stimulating to me. Additionally, my passion for design adds another layer to my exploration, as I'm keen on integrating aesthetics and user experience considerations into the development of intelligent systems. It's this blend of technical innovation and creative thinking that drives my curiosity and fuels my endeavors in  ML & AI.
 
-* Areas of Interest: Machine Learning, Robotics, Computer Vision, NLP, Automotive Systems
+* Areas of Interest: AI, Machine Learning, Robotics, Computer Vision, NLP, Automotive Systems
 * Beginner in Open Source 🕹️
 * Experienced Graphic Designer 🎬
   
@@ -27,18 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## GSSOC-24 Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-</div>
-
-
 
 <br>
   
@@ -71,8 +59,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<!-- 
-Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey777) 
--->
 
 
