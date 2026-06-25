@@ -1,61 +1,79 @@
-[![MasterHead](https://github.com/av0422/av0422/blob/main/Banner%20github.png)](github.com/av0422)
 
 
-### Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CECBF6&center=true&vCenter=true&width=500&lines=Robotics,+AI,+ML;MSc+Computer+Science;Building+intelligent+systems" alt="Typing SVG" />
+</div>
+<h1 align="center">Hey, I'm Avantika 👋</h1>
 
-I am a 23 year old, currently based in Stuttgart, Germany!
-Currently studying my masters in Computer Science at Universität Stuttgart.  
-Graduated in Computer Science from University of Delhi.
+<p align="center">
+  MSc Computer Science (Autonomous Systems) · Universität Stuttgart<br/>
+  Building at the intersection of <strong>robotics, computer vision, and machine learning</strong>
+</p>
 
-I'm deeply fascinated by the intersection of machine learning and artificial intelligence, particularly when applied to robotics and autonomous systems. Exploring how these technologies enable machines to perceive, understand, and act autonomously in dynamic environments is both thrilling and intellectually stimulating to me. Additionally, my passion for design adds another layer to my exploration, as I'm keen on integrating aesthetics and user experience considerations into the development of intelligent systems. It's this blend of technical innovation and creative thinking that drives my curiosity and fuels my endeavors in  ML & AI.
-
-* Areas of Interest: AI, Machine Learning, Robotics, Computer Vision, NLP, Automotive Systems
-* Beginner in Open Source 🕹️
-* Experienced Graphic Designer 🎬
+<p align="center">
   
-<!--
-**av0422/av0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 What I'm currently up to
 
-<br>
-  
-### Languages and Tools:
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-Adobe Creative Cloud-DA1F26?logo=Adobe-Creative-Cloud&logoColor=white"> <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white"> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white">
-
-<br>
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 | [GraspBot](https://github.com/av0422/graspbot) 🚧 | ROS 2 + Gazebo robot that perceives & grasps objects via YOLO | `ROS 2` `Gazebo` `YOLO` |
 
 
-## Github Stats
 
-![Avantika's Stats](https://github-readme-stats.vercel.app/api?username=av0422&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)     
+---
 
-<br>
+## 🛠️ Tech Stack
 
-![Avantika's Streak](https://github-readme-streak-stats.herokuapp.com/?user=av0422&theme=tokyonight&hide_border=true)
+> **Robotics & Simulation**
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58025?style=flat)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat)
 
-<br>
+> **ML & Computer Vision**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat)
 
-![Avantika's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=av0422&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+> **Languages & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+> **Data Science**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=av0422&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=av0422&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150"/>
+</div>
+
+---
+
+<p align="center">
+  <i>Currently seeking Werkstudent roles in Data Science / robotics / AI & ML / autonomous systems in Stuttgart 🇩🇪</i>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_avantikaajit" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/x.png" alt="" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/avantikaajit/" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/linkedin.png" title="linkedin icons" alt="" height="30" width="30" /></a>
-<a href="https://www.instagram.com/avantikaajit_/" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/instagram.png" alt="" height="30" width="30" /></a>
-<a href="[(https://www.youtube.com/channel/UCS_L8LPvBS86nW80iDqXdFw)]" target="blank"><img align="center" src="https://github.com/av0422/av0422/blob/main/Icons/youtube.png" alt="" height="30" width="30" /></a>
+<a href="https://av0422.github.io/personal_portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white"/></a>
+<a href="mailto:avantika.aji22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 
