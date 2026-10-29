@@ -20,6 +20,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🤖 | [Indoor Autonomous Robot](https://github.com/av0422/REPO_NAME) 🚧 | Simulated indoor mobile robot that localizes, plans and navigates, with YOLO-based perception (built with my sister) | `ROS 2` `Gazebo` `Nav2` `YOLO` |
 | 🤖 | [GraspBot](https://github.com/av0422/graspbot) 🚧 | ROS 2 + Gazebo robot that perceives & grasps objects via YOLO | `ROS 2` `Gazebo` `YOLO` |
 
 
